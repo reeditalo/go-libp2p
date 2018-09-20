@@ -1,0 +1,17 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: go-libp2p
+Source: https://github.com/libp2p/go-libp2p
+Files-Excluded:
+  Godeps/_workspace
+
+Files: *
+Copyright: 2015 libp2p
+License: TODO
+
+Files: debian/*
+Copyright: 2018 Niv Sardi <xaiki@debian.org>
+License: TODO
+Comment: Debian packaging is licensed under the same terms as upstream
+
+License: TODO
+TODO
